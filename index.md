@@ -1,10 +1,10 @@
-Johnny Coder
+sonyvaleti
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+1 guntur                    sonyvaleti@gmail.com
+MyTown 1000                  @twitter_handle
+india                        1800 my-phone-nr
 -------------------     ----------------------------
 
 Education
